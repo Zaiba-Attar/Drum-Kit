@@ -59,15 +59,4 @@ function makeSound(key){
     }
 }
 
-//generate the button animation
 
-/*function buttonAnimation(currentButton){
-    var activeButton = document.querySelector("." + currentButton)
-    activeButton.classList.add("pressed");
-    
-    setTimeout(timeOut,100);
-        
-    function timeOut(){
-        activeButton.classList.remove("pressed");
-    };
-}*/
